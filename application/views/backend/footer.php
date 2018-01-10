@@ -1,0 +1,1 @@
+<footer class="footer text-center"> E-Learning Moodle &copy; Kelompok CI</footer>
